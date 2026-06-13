@@ -12,7 +12,7 @@ This is a simple beginner python project that creates a fun Madlibs game using u
 - input and output
 - f-strings
 ## How to run
-1. open "project1" in vs code.
+1. open 'project1.py' in vs code.
 2. run the program.
 3. enter the required inputs.
 4. view the generated story.
